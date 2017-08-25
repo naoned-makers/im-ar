@@ -1,0 +1,180 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl 24_+glooves.glooves_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_01_02_base.tga
+map_d mil_01_02_base.tga
+
+newmtl 24_+headgear.headgear_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_01_01_base.tga
+map_d mil_01_01_base.tga
+
+newmtl 24_body_0.3_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_body_base.tga
+map_Bump mil01_mbody_nrm_N.tga
+map_d mil_body_base.tga
+
+newmtl 24_eyes_2.0_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_nobandface_base.tga
+map_d mil_nobandface_base.tga
+
+newmtl 24_face_0.3_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_nobandface_base.tga
+map_d mil_nobandface_base.tga
+
+newmtl 24_pants_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil01_pants_base.tga
+map_Bump mil01_pants_nrm_N.tga
+map_d mil01_pants_base.tga
+
+newmtl 24_upper_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_01_01_base.tga
+map_d mil_01_01_base.tga
+
+newmtl 25_hairblack_0.8_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_hairblack_base.tga
+map_d mil_hairblack_base.tga
+
+newmtl 25_hred!_0.8_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_hairred_base.tga
+map_d mil_hairred_base.tga
+
+newmtl 25_hred1nPart!_0.8_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_hairred_base.tga
+map_d mil_hairred_base.tga
+
+newmtl 7_bee_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil01_honeybee_base.tga
+map_d mil01_honeybee_base.tga
+
+newmtl 7_eys_0.1_16_16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_eyekage_base.tga
+map_d mil_eyekage_base.tga
+
+newmtl 7_matugedown_0.1_16_16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_sitamatuge.tga
+map_d mil_sitamatuge.tga
+
+newmtl 7_mup_0.1_16_16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil_matuge_up.tga
+map_d mil_matuge_up.tga
+
+newmtl 7_sweeting_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil01_sweeteststing_base.tga
+map_d mil01_sweeteststing_base.tga
+
+newmtl 7_victoria_0.5_0_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mil01_victoria2_base.tga
+map_d mil01_victoria2_base.tga

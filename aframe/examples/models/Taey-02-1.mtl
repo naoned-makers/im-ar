@@ -1,0 +1,223 @@
+newmtl 3_SkinFoot
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl 6_Eyelash
+d 1
+Ns 0.902174
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.603922 0.6 0.584314
+Km 0.001
+map_D /Maps/V4LanaRRTR.jpg
+
+newmtl 5_Sclera
+d 1
+Kd 1 1 1
+map_Kd /Maps/tex_eyes.jpg
+map_D /Maps/V4LanaRREyesTr.jpg
+
+newmtl 5_Pupil
+d 1
+Kd 0.564706 0.564706 0.564706
+map_Kd /Maps/tex_eyes.jpg
+
+newmtl 5_Iris
+d 1
+Kd 1 1 1
+map_Kd /Maps/tex_eyes.jpg
+
+newmtl 5_Cornea
+d 0
+Kd 1 1 1
+map_Kd /Maps/V4LanaRREyesM.jpg
+
+newmtl 4_Tongue
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRInMouthM.jpg
+
+newmtl 4_Teeth
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRInMouthM.jpg
+
+newmtl 4_InnerMouth
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRInMouthM.jpg
+
+newmtl 4_Gums
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRInMouthM.jpg
+
+newmtl 3_SkinArm
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl 2_SkinTorso
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRTorsoM_NG.jpg
+
+newmtl 2_Nipple
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRTorsoM_NG.jpg
+
+newmtl 2_SkinNeck
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRTorsoM_NG.jpg
+
+newmtl 3_SkinForearm
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl 3_SkinLeg
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl 2_SkinHip
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRTorsoM_NG.jpg
+
+newmtl 2_SkinHead
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRTorsoM_NG.jpg
+
+newmtl 3_SkinHand
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl 7_Tear
+d 0.15
+Ns 0.7
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.001
+map_Kd /Maps/tex_tear.jpg
+
+newmtl 1_Nostril
+d 1
+Kd 1 1 1
+map_Kd /Maps/tex_face.jpg
+
+newmtl 1_Lip
+d 1
+Kd 1 1 1
+map_Kd /Maps/tex_face.jpg
+
+newmtl 5_Lacrimal
+d 1
+Kd 1 1 1
+map_Kd /Maps/tex_eyes.jpg
+
+newmtl 1_SkinFace
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/tex_face.jpg
+
+newmtl 3_Fingernail
+d 1
+Kd 0.945098 0.854902 0.678431
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl 3_Toenail
+d 1
+Kd 1 1 1
+map_Kd /Maps/V4LanaRRLimbsM.jpg
+
+newmtl Hair
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_Nordic_A01.jpg
+map_D /Maps/SW_Nordic_Tr.jpg
+
+newmtl Base
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_Nordic_B01.jpg
+map_D /Maps/SW_Nordic_Base_TR.jpg
+
+newmtl Flower
+d 1
+Ns 0.607692
+Ni 0
+Ka 0.0588235 0.0588235 0.0588235
+Kd 1 1 1
+Ks 0.701961 0.662745 0.552941
+Km 0
+map_Kd /Maps/DzSBMini4.jpg
+
+newmtl Top
+d 1
+Ns 0.5
+Ni 0
+Ka 0.0588235 0.0588235 0.0588235
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/DzSBMini4.jpg
+map_Ks /Maps/DzSBMini4.jpg
+
+newmtl Skirt
+d 1
+Ns 0.915385
+Ni 0
+Ka 0.0588235 0.0588235 0.0588235
+Kd 1 1 1
+Ks 0.501961 0.501961 0.501961
+Km 0
+map_Kd /Maps/DzSBMini4.jpg
+
+newmtl Strap
+d 1
+Ns 0.915385
+Ni 0
+Ka 0.0588235 0.0588235 0.0588235
+Kd 1 1 1
+Ks 0.501961 0.501961 0.501961
+Km 0
+map_Kd /Maps/DzSBMini4.jpg
+
+newmtl Metal
+d 1
+Kd 0.0862745 0.0941176 0.0588235
+
+newmtl Straps
+d 1
+Kd 0.443137 0.443137 0.443137
+map_Kd /Maps/LJ_Boots_Color.jpg
+
+newmtl Soles
+d 1
+Kd 0.305882 0.305882 0.305882
+map_Kd /Maps/LJ_Boots_Color.jpg
+
+newmtl Leather
+d 1
+Kd 0.607843 0.607843 0.607843
+map_Kd /Maps/LJ_Boots_Color.jpg
+
+newmtl SolesTrim
+d 1
+Kd 0.501961 0.501961 0.501961
+map_Kd /Maps/LJ_Boots_Color.jpg
+
+newmtl EdgeLoop
+d 1
+Kd 0.501961 0.501961 0.501961
+map_Kd /Maps/LJ_Boots_Color.jpg
+
