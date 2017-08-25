@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AR.js - Efficient Augmented Reality for the Web
 
 I am focusing hard on making AR for the web a reality.
@@ -222,3 +223,8 @@ Credits: @HelloDeadline, @sorianog
 # FAQ
 
 [FAQ.md](docs/FAQ.md)
+||||||| merged common ancestors
+=======
+# im-ar
+AR for im
+>>>>>>> 57b0a4d53f75a8db25963df5f9bddd563a8eebfe
